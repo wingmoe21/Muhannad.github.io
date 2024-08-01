@@ -1,6 +1,5 @@
 # Muhannad Aldossary - Portfolio
 
-![Professional Photo](https://via.placeholder.com/150)
 
 ## Introduction
 Hello! I'm Muhannad Aldossary, a Computer Science graduate working at GOSI. I work on various projects on the side, such as developing apps, websites, and AI projects.
